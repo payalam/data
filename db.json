@@ -1,78 +1,78 @@
 {
    "set-relay":[
       {
-         "relayId":321,
-         "usage":"Boiler",
-         "relayNr":1,
-         "relayType":"RELAY",
-         "relayState":"OFF",
-         "reverted":false,
-         "relayStateTime":1584443026476,
-         "deviceMeterId":220,
-         "meterConnectionId":441,
-         "meteringPointId":601,
+         "relayId":21,
+         "usage":"Speaker",
+         "relayNr":23,
+         "relayType":"RELAY123",
+         "relayState":"Open",
+         "reverted":true,
+         "relayStateTime":156,
+         "deviceMeterId":2,
+         "meterConnectionId":4,
+         "meteringPointId":61,
          "controlMode":null,
          "controlModeDate":null,
          "transitions":null
       },
       {
-         "relayId":322,
-         "usage":"Heating",
-         "relayNr":2,
-         "relayType":"RELAY",
-         "relayState":"ON",
+         "relayId":32,
+         "usage":"motor",
+         "relayNr":34,
+         "relayType":"RELAY6354d",
+         "relayState":"Off",
          "reverted":false,
-         "relayStateTime":1584454543267,
-         "deviceMeterId":220,
-         "meterConnectionId":441,
-         "meteringPointId":601,
+         "relayStateTime":167,
+         "deviceMeterId":2,
+         "meterConnectionId":4,
+         "meteringPointId":61,
          "controlMode":null,
          "controlModeDate":null,
          "transitions":null
       },
       {
-         "relayId":241,
-         "usage":"Mains",
-         "relayNr":0,
-         "relayType":"DISCONNECTOR",
-         "relayState":"ON",
+         "relayId":24,
+         "usage":"Radio",
+         "relayNr":12,
+         "relayType":"CONNECTOR",
+         "relayState":"open",
          "reverted":false,
-         "relayStateTime":1584453802000,
-         "deviceMeterId":220,
-         "meterConnectionId":441,
-         "meteringPointId":601,
-         "controlMode":4,
-         "controlModeDate":1584453802000,
+         "relayStateTime":1580,
+         "deviceMeterId":2,
+         "meterConnectionId":4,
+         "meteringPointId":61,
+         "controlMode":234,
+         "controlModeDate":1000,
          "transitions":null
       }
    ],
    "relays":[
       {
-         "relayNr":1,
-         "relayType":"RELAY"
+         "relayNr":112,
+         "relayType":"RELAY6788"
       },
       {
-         "relayNr":2,
-         "relayType":"RELAY"
+         "relayNr":232,
+         "relayType":"RELAYhello"
       },
       {
-         "relayNr":0,
-         "relayType":"DISCONNECTOR"
+         "relayNr":120,
+         "relayType":"CONNECTION"
       },
       {
-         "relayNr":3,
-         "relayType":"RELAY"
+         "relayNr":4556,
+         "relayType":"RELAY56767"
       }
    ],
    "usage":[
       {
-         "usage":"Mains"
+         "usage":"Speaker"
       },
       {
-         "usage":"Heating"
+         "usage":"Radio"
       },
       {
-         "usage":"Boiler"
+         "usage":"Motor"
       }
    ]
 }
