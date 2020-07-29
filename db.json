@@ -48,20 +48,20 @@
    ],
    "relays":[
       {
-         "relayNr":112,
-         "relayType":"RELAY6788"
-      },
-      {
-         "relayNr":232,
-         "relayType":"RELAYhello"
-      },
-      {
-         "relayNr":120,
+         "relayNr":1,
          "relayType":"CONNECTION"
       },
       {
-         "relayNr":4556,
-         "relayType":"RELAY56767"
+         "relayNr":2,
+         "relayType":"CONNECTION"
+      },
+      {
+         "relayNr":3,
+         "relayType":"CONNECTION"
+      },
+      {
+         "relayNr":4,
+         "relayType":"CONNECTION"
       }
    ],
    "usage":[
